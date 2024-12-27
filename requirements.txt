@@ -3,3 +3,4 @@ pandas
 plyer
 pyttsx3
 matplotlib
+plotly
