@@ -4,3 +4,4 @@ plyer
 pyttsx3
 matplotlib
 plotly
+pytz
