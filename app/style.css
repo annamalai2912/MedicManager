@@ -1,0 +1,21 @@
+/* Mobile-friendly design */
+[data-testid="stAppViewContainer"] {
+    padding: 10px;
+}
+
+/* Custom header style */
+h1 {
+    color: #4CAF50;
+    font-size: 2em;
+    text-align: center;
+}
+
+/* Button styling */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 1em;
+    cursor: pointer;
+}
